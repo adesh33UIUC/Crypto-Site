@@ -29,3 +29,16 @@ For each coin display:
 - CSS
 - CoinGecko REST API
 - Charting for price visualization (React Google Charts)
+
+Images from the site:
+- Dashboard
+<img width="700" height="500" alt="Screenshot 2026-01-11 175225" src="https://github.com/user-attachments/assets/83e391fe-de49-4122-b82e-82c35ede06f9" />
+
+- Coins Table
+<img width="700" height="500" alt="Screenshot 2026-01-11 175308" src="https://github.com/user-attachments/assets/d723a731-0341-420e-becb-7d0a44bb0b20" />
+
+- Coin Page (BTC example)
+<img width="700" height="500" alt="Screenshot 2026-01-11 175253" src="https://github.com/user-attachments/assets/a8570cbb-1b88-45a5-b204-80a4a68658f2" />
+
+
+
